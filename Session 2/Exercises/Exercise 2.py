@@ -1,0 +1,6 @@
+print(int(3.4))
+print(float(True))
+print(str(False))
+print(bool(3))
+print(bool(5.1))
+print(float(7))
